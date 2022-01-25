@@ -2,7 +2,7 @@
 # Problem Statement 
 This famous dataset includes the pricing and other characteristics of about 54,000 diamonds. It's an excellent dataset for those who are just starting out with data analysis and visualisation. Here I am using two regression models, namely Linear regression and Random Forest Regression.
 ## Dataset
-The dataset used is the [Diamond Prediction Dataset](https://www.kaggle.com/shivam2503/diamonds) from (Kaggle). Using the given features such as clarity, color and cut of the diamonds, we predict/estimate its price.
+The dataset used is the [Diamond Prediction Dataset](https://www.kaggle.com/shivam2503/diamonds) from Kaggle. Using the given features such as clarity, color and cut of the diamonds, we predict/estimate its price.
 
 ## Models Used
 1. Random Forest Regression:
